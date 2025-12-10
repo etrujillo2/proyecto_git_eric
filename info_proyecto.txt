@@ -1,0 +1,2 @@
+Proyecto de <tu_nombre>
+Versión inicial del archivo.
